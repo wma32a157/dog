@@ -361,3 +361,13 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/DogKnight/Texture
+/Assets/DogKnight/Scene
+/Assets/DogKnight/Prefab
+/Assets/DogKnight/Mesh
+/Assets/DogKnight/Material
+/Assets/DogKnight/Animator
+/Assets/DogKnight/Animations
+/Assets/DogKnight
+/Temp
+/Library
